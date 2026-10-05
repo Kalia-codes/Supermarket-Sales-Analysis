@@ -1,0 +1,501 @@
+Transaction ID,Product,Category,Branch,City,Customer Type,Quantity,Unit Price,Payment Method,Rating,Sales
+1,Cheese,Dairy,A,Bangalore,Normal,1,132.97,UPI,5.0,132.97
+2,Cheese,Dairy,A,Bangalore,Member,1,186.11,UPI,5.0,186.11
+3,Cheese,Dairy,B,Delhi,Member,1,195.23,UPI,5.0,195.23
+4,Cheese,Dairy,A,Bangalore,Member,1,509.06,UPI,5.0,509.06
+5,Cheese,Dairy,B,Delhi,Normal,1,97.78,UPI,5.0,97.78
+6,Cheese,Dairy,B,Delhi,Member,1,120.42,UPI,5.0,120.42
+7,Cheese,Dairy,B,Delhi,Member,1,481.69,UPI,5.0,481.69
+8,Cheese,Dairy,A,Bangalore,Member,1,171.51,UPI,5.0,171.51
+9,Cheese,Dairy,B,Delhi,Member,1,687.88,UPI,5.0,687.88
+10,Cheese,Dairy,B,Delhi,Normal,1,750.94,UPI,5.0,750.94
+11,Cheese,Dairy,B,Delhi,Member,1,782.76,UPI,5.0,782.76
+12,Cheese,Dairy,A,Bangalore,Member,1,485.34,UPI,5.0,485.34
+13,Cheese,Dairy,B,Delhi,Member,1,782.76,UPI,5.0,782.76
+14,Cheese,Dairy,B,Delhi,Member,1,640.44,UPI,5.0,640.44
+15,Cheese,Dairy,A,Bangalore,Member,1,697.0,UPI,5.0,697.0
+16,Cheese,Dairy,A,Bangalore,Member,1,746.26,UPI,5.0,746.26
+17,Cheese,Dairy,A,Bangalore,Normal,1,811.83,UPI,5.0,811.83
+18,Cheese,Dairy,A,Bangalore,Normal,1,178.97,UPI,5.0,178.97
+19,Cheese,Dairy,B,Delhi,Member,1,759.04,UPI,5.0,759.04
+20,Cheese,Dairy,B,Delhi,Normal,1,662.38,UPI,5.0,662.38
+21,Cheese,Dairy,A,Bangalore,Normal,1,409.6,UPI,5.0,409.6
+22,Cheese,Dairy,A,Bangalore,Normal,1,450.2,UPI,5.0,450.2
+23,Cheese,Dairy,A,Bangalore,Member,1,275.51,UPI,5.0,275.51
+24,Cheese,Dairy,A,Bangalore,Member,1,293.76,UPI,5.0,293.76
+25,Cheese,Dairy,A,Bangalore,Normal,1,354.25,UPI,5.0,354.25
+26,Cheese,Dairy,B,Delhi,Member,1,308.36,UPI,5.0,308.36
+27,Cheese,Dairy,B,Delhi,Normal,1,429.9,UPI,5.0,429.9
+28,Cheese,Dairy,A,Bangalore,Member,1,295.58,UPI,5.0,295.58
+29,Cheese,Dairy,A,Bangalore,Member,1,779.11,UPI,5.0,779.11
+30,Cheese,Dairy,A,Bangalore,Member,1,561.98,UPI,5.0,561.98
+31,Cheese,Dairy,A,Bangalore,Normal,1,808.14,UPI,5.0,808.14
+32,Cheese,Dairy,A,Bangalore,Member,1,653.21,UPI,5.0,653.21
+33,Cheese,Dairy,B,Delhi,Normal,1,341.34,UPI,5.0,341.34
+34,Cheese,Dairy,B,Delhi,Member,1,722.54,UPI,5.0,722.54
+35,Cheese,Dairy,A,Bangalore,Normal,1,188.19,UPI,5.0,188.19
+36,Cheese,Dairy,A,Bangalore,Normal,1,854.27,UPI,5.0,854.27
+37,Cheese,Dairy,A,Bangalore,Member,1,118.6,UPI,5.0,118.6
+38,Cheese,Dairy,B,Delhi,Normal,1,416.98,UPI,5.0,416.98
+39,Cheese,Dairy,B,Delhi,Member,1,299.23,UPI,5.0,299.23
+40,Cheese,Dairy,A,Bangalore,Normal,1,413.29,UPI,5.0,413.29
+41,Cheese,Dairy,B,Delhi,Normal,1,891.17,UPI,5.0,891.17
+42,Cheese,Dairy,A,Bangalore,Normal,1,182.66,UPI,5.0,182.66
+43,Cheese,Dairy,A,Bangalore,Member,1,642.26,UPI,5.0,642.26
+44,Cheese,Dairy,B,Delhi,Normal,1,490.79,UPI,5.0,490.79
+45,Cheese,Dairy,A,Bangalore,Member,1,113.12,UPI,5.0,113.12
+46,Cheese,Dairy,A,Bangalore,Member,1,346.67,UPI,5.0,346.67
+47,Cheese,Dairy,A,Bangalore,Normal,1,238.01,UPI,5.0,238.01
+48,Cheese,Dairy,B,Delhi,Member,1,600.29,UPI,5.0,600.29
+49,Cheese,Dairy,A,Bangalore,Normal,1,913.31,UPI,5.0,913.31
+50,Cheese,Dairy,A,Bangalore,Member,1,114.95,UPI,5.0,114.95
+51,Cheese,Dairy,B,Delhi,Normal,1,852.42,UPI,5.0,852.42
+52,Cheese,Dairy,B,Delhi,Normal,1,241.7,UPI,5.0,241.7
+53,Cheese,Dairy,A,Bangalore,Member,1,176.98,UPI,5.0,176.98
+54,Cheese,Dairy,A,Bangalore,Member,1,846.78,UPI,5.0,846.78
+55,Cheese,Dairy,B,Delhi,Member,1,319.3,UPI,5.0,319.3
+56,Cheese,Dairy,B,Delhi,Member,1,614.89,UPI,5.0,614.89
+57,Cheese,Dairy,A,Bangalore,Member,1,220.77,UPI,5.0,220.77
+58,Cheese,Dairy,A,Bangalore,Member,1,350.32,UPI,5.0,350.32
+59,Cheese,Dairy,A,Bangalore,Member,1,600.29,UPI,5.0,600.29
+60,Cheese,Dairy,A,Bangalore,Normal,1,295.21,UPI,5.0,295.21
+61,Tea,Beverages,A,Bangalore,Member,1,440.32,UPI,5.0,440.32
+62,Coffee,Beverages,A,Bangalore,Normal,1,381.54,UPI,5.0,381.54
+63,Tea,Beverages,A,Bangalore,Member,1,831.72,UPI,5.0,831.72
+64,Tea,Beverages,B,Delhi,Member,1,159.0,UPI,5.0,159.0
+65,Soft Drink,Beverages,B,Delhi,Member,1,670.97,UPI,5.0,670.97
+66,Soft Drink,Beverages,B,Delhi,Member,1,728.63,UPI,5.0,728.63
+67,Tea,Beverages,A,Bangalore,Normal,1,742.81,UPI,5.0,742.81
+68,Tea,Beverages,A,Bangalore,Member,1,634.27,UPI,5.0,634.27
+69,Coffee,Beverages,A,Bangalore,Member,1,340.72,UPI,5.0,340.72
+70,Tea,Beverages,B,Delhi,Member,1,330.24,UPI,5.0,330.24
+71,Soft Drink,Beverages,B,Delhi,Member,1,726.88,UPI,5.0,726.88
+72,Tea,Beverages,B,Delhi,Normal,1,125.33,UPI,5.0,125.33
+73,Tea,Beverages,B,Delhi,Member,1,227.15,UPI,5.0,227.15
+74,Tea,Beverages,B,Delhi,Normal,1,339.14,UPI,5.0,339.14
+75,Juice,Beverages,A,Bangalore,Normal,1,739.12,UPI,5.0,739.12
+76,Juice,Beverages,A,Bangalore,Member,1,663.98,UPI,5.0,663.98
+77,Tea,Beverages,B,Delhi,Member,1,181.72,UPI,5.0,181.72
+78,Coffee,Beverages,B,Delhi,Normal,1,903.38,UPI,5.0,903.38
+79,Soft Drink,Beverages,B,Delhi,Normal,1,490.29,UPI,5.0,490.29
+80,Soft Drink,Beverages,B,Delhi,Member,1,581.85,UPI,5.0,581.85
+81,Soft Drink,Beverages,B,Delhi,Normal,1,689.35,UPI,5.0,689.35
+82,Juice,Beverages,B,Delhi,Normal,1,283.85,UPI,5.0,283.85
+83,Soft Drink,Beverages,A,Bangalore,Member,1,686.69,UPI,5.0,686.69
+84,Soft Drink,Beverages,A,Bangalore,Normal,1,890.26,UPI,5.0,890.26
+85,Soft Drink,Beverages,A,Bangalore,Member,1,354.7,UPI,5.0,354.7
+86,Coffee,Beverages,B,Delhi,Member,1,817.74,UPI,5.0,817.74
+87,Coffee,Beverages,B,Delhi,Member,1,684.95,UPI,5.0,684.95
+88,Tea,Beverages,A,Bangalore,Normal,1,818.38,UPI,5.0,818.38
+89,Juice,Beverages,A,Bangalore,Normal,1,140.08,UPI,5.0,140.08
+90,Juice,Beverages,B,Delhi,Member,1,269.08,UPI,5.0,269.08
+91,Juice,Beverages,A,Bangalore,Normal,1,440.52,UPI,5.0,440.52
+92,Coffee,Beverages,B,Delhi,Normal,1,232.24,UPI,5.0,232.24
+93,Coffee,Beverages,A,Bangalore,Normal,1,94.0,UPI,5.0,94.0
+94,Coffee,Beverages,A,Bangalore,Normal,1,606.41,UPI,5.0,606.41
+95,Soft Drink,Beverages,A,Bangalore,Member,1,368.68,UPI,5.0,368.68
+96,Soft Drink,Beverages,B,Delhi,Normal,1,842.34,UPI,5.0,842.34
+97,Coffee,Beverages,A,Bangalore,Member,1,338.98,UPI,5.0,338.98
+98,Coffee,Beverages,B,Delhi,Member,1,152.01,UPI,5.0,152.01
+99,Soft Drink,Beverages,A,Bangalore,Normal,1,611.94,UPI,5.0,611.94
+100,Coffee,Beverages,B,Delhi,Normal,1,693.04,UPI,5.0,693.04
+101,Coffee,Beverages,B,Delhi,Member,1,581.85,UPI,5.0,581.85
+102,Juice,Beverages,A,Bangalore,Member,1,641.26,UPI,5.0,641.26
+103,Coffee,Beverages,B,Delhi,Member,1,274.33,UPI,5.0,274.33
+104,Soft Drink,Beverages,B,Delhi,Member,1,206.18,UPI,5.0,206.18
+105,Soft Drink,Beverages,A,Bangalore,Normal,1,352.05,UPI,5.0,352.05
+106,Soft Drink,Beverages,B,Delhi,Member,1,366.93,UPI,5.0,366.93
+107,Juice,Beverages,A,Bangalore,Member,1,148.52,UPI,5.0,148.52
+108,Soft Drink,Beverages,A,Bangalore,Normal,1,567.7,UPI,5.0,567.7
+109,Juice,Beverages,A,Bangalore,Member,1,368.68,UPI,5.0,368.68
+110,Tea,Beverages,B,Delhi,Member,1,539.92,UPI,5.0,539.92
+111,Juice,Beverages,B,Delhi,Member,1,179.97,UPI,5.0,179.97
+112,Coffee,Beverages,A,Bangalore,Member,1,679.7,UPI,5.0,679.7
+113,Soft Drink,Beverages,B,Delhi,Normal,1,213.81,UPI,5.0,213.81
+114,Soft Drink,Beverages,B,Delhi,Member,1,559.14,UPI,5.0,559.14
+115,Coffee,Beverages,B,Delhi,Member,1,356.45,UPI,5.0,356.45
+116,Tea,Beverages,B,Delhi,Member,1,751.35,UPI,5.0,751.35
+117,Soft Drink,Beverages,B,Delhi,Member,1,590.59,UPI,5.0,590.59
+118,Juice,Beverages,B,Delhi,Member,1,305.78,UPI,5.0,305.78
+119,Juice,Beverages,A,Bangalore,Member,1,553.9,UPI,5.0,553.9
+120,Juice,Beverages,A,Bangalore,Member,1,461.29,UPI,5.0,461.29
+121,Tea,Beverages,A,Bangalore,Member,1,204.43,UPI,5.0,204.43
+122,Juice,Beverages,A,Bangalore,Member,1,190.45,UPI,5.0,190.45
+123,Tea,Beverages,B,Delhi,Member,1,873.66,UPI,5.0,873.66
+124,Coffee,Beverages,A,Bangalore,Normal,1,757.55,UPI,5.0,757.55
+125,Coffee,Beverages,B,Delhi,Member,1,323.25,UPI,5.0,323.25
+126,Coffee,Beverages,A,Bangalore,Member,1,323.25,UPI,5.0,323.25
+127,Soft Drink,Beverages,B,Delhi,Normal,1,552.96,UPI,5.0,552.96
+128,Tea,Beverages,A,Bangalore,Normal,1,895.79,Credit Card,5.0,895.79
+129,Coffee,Beverages,A,Bangalore,Member,1,627.29,Debit Card,5.0,627.29
+130,Coffee,Beverages,A,Bangalore,Normal,1,340.99,Credit Card,5.0,340.99
+131,Juice,Beverages,A,Bangalore,Member,1,225.4,Debit Card,5.0,225.4
+132,Soft Drink,Beverages,A,Bangalore,Normal,1,178.79,Credit Card,5.0,178.79
+133,Soft Drink,Beverages,B,Delhi,Normal,1,689.35,Debit Card,5.0,689.35
+134,Juice,Beverages,A,Bangalore,Member,1,319.76,Credit Card,5.0,319.76
+135,Tea,Beverages,A,Bangalore,Member,1,398.39,Debit Card,5.0,398.39
+136,Tea,Beverages,A,Bangalore,Normal,1,508.72,Credit Card,5.0,508.72
+137,Tea,Beverages,A,Bangalore,Member,1,94.35,Debit Card,5.0,94.35
+138,Soft Drink,Beverages,B,Delhi,Member,1,94.35,Credit Card,5.0,94.35
+139,Juice,Beverages,B,Delhi,Normal,1,641.43,Debit Card,5.0,641.43
+140,Tea,Beverages,B,Delhi,Normal,1,611.94,Credit Card,5.0,611.94
+141,Soft Drink,Beverages,A,Bangalore,Member,1,152.01,Debit Card,5.0,152.01
+142,Tea,Beverages,B,Delhi,Member,1,417.61,Credit Card,5.0,417.61
+143,Coffee,Beverages,A,Bangalore,Member,1,573.12,Debit Card,5.0,573.12
+144,Soft Drink,Beverages,A,Bangalore,Member,1,871.91,Credit Card,5.0,871.91
+145,Soft Drink,Beverages,B,Delhi,Member,1,496.24,Debit Card,5.0,496.24
+146,Soft Drink,Beverages,A,Bangalore,Member,1,176.47,Credit Card,5.0,176.47
+147,Soft Drink,Beverages,B,Delhi,Member,1,323.25,Debit Card,5.0,323.25
+148,Coffee,Beverages,A,Bangalore,Member,1,608.06,Credit Card,5.0,608.06
+149,Juice,Beverages,A,Bangalore,Member,1,809.01,Debit Card,5.0,809.01
+150,Soft Drink,Beverages,B,Delhi,Normal,1,230.4,Credit Card,5.0,230.4
+151,Soft Drink,Beverages,A,Bangalore,Normal,1,405.5,Debit Card,5.0,405.5
+152,Soft Drink,Beverages,B,Delhi,Normal,1,162.2,Credit Card,5.0,162.2
+153,Tea,Beverages,B,Delhi,Member,1,204.43,Debit Card,5.0,204.43
+154,Juice,Beverages,B,Delhi,Normal,1,211.96,Credit Card,5.0,211.96
+155,Soft Drink,Beverages,A,Bangalore,Normal,1,497.66,Debit Card,5.0,497.66
+156,Juice,Beverages,A,Bangalore,Normal,1,621.15,Credit Card,5.0,621.15
+157,Soft Drink,Beverages,B,Delhi,Member,1,478.76,Debit Card,5.0,478.76
+158,Juice,Beverages,B,Delhi,Normal,1,243.3,Credit Card,5.0,243.3
+159,Tea,Beverages,B,Delhi,Normal,1,99.53,Debit Card,5.0,99.53
+160,Juice,Beverages,B,Delhi,Member,1,674.46,Credit Card,5.0,674.46
+161,Coffee,Beverages,A,Bangalore,Normal,1,879.2,Debit Card,5.0,879.2
+162,Coffee,Beverages,B,Delhi,Member,1,758.33,Credit Card,5.0,758.33
+163,Coffee,Beverages,B,Delhi,Normal,1,197.22,Debit Card,5.0,197.22
+164,Soft Drink,Beverages,B,Delhi,Member,1,496.24,Credit Card,5.0,496.24
+165,Soft Drink,Beverages,B,Delhi,Member,1,567.88,Debit Card,5.0,567.88
+166,Soft Drink,Beverages,A,Bangalore,Member,1,354.7,Credit Card,5.0,354.7
+167,Tea,Beverages,A,Bangalore,Normal,1,790.73,Debit Card,5.0,790.73
+168,Juice,Beverages,B,Delhi,Normal,1,328.09,Credit Card,5.0,328.09
+169,Juice,Beverages,B,Delhi,Member,1,683.2,Debit Card,5.0,683.2
+170,Soft Drink,Beverages,B,Delhi,Member,1,393.51,Credit Card,5.0,393.51
+171,Soft Drink,Beverages,B,Delhi,Normal,1,493.97,Debit Card,5.0,493.97
+172,Soft Drink,Beverages,A,Bangalore,Normal,1,434.99,Credit Card,5.0,434.99
+173,Juice,Beverages,B,Delhi,Member,1,300.54,Debit Card,5.0,300.54
+174,Tea,Beverages,B,Delhi,Normal,1,873.67,Credit Card,5.0,873.67
+175,Juice,Beverages,A,Bangalore,Member,1,277.82,Debit Card,5.0,277.82
+176,Soft Drink,Beverages,A,Bangalore,Normal,1,132.71,Credit Card,5.0,132.71
+177,Tea,Beverages,A,Bangalore,Member,1,643.01,Debit Card,5.0,643.01
+178,Juice,Beverages,B,Delhi,Member,1,716.4,Credit Card,5.0,716.4
+179,Soft Drink,Beverages,B,Delhi,Normal,1,130.86,Debit Card,5.0,130.86
+180,Coffee,Beverages,A,Bangalore,Member,1,592.34,Credit Card,5.0,592.34
+181,Chocolate,Snacks,C,Mumbai,Normal,1,947.94,Debit Card,5.0,947.94
+182,Pasta,Groceries,C,Mumbai,Normal,1,338.41,Credit Card,5.0,338.41
+183,Rice,Groceries,C,Mumbai,Normal,1,195.92,Debit Card,5.0,195.92
+184,Noodles,Groceries,C,Mumbai,Normal,1,787.64,Credit Card,5.0,787.64
+185,Noodles,Groceries,C,Mumbai,Member,1,441.06,Debit Card,5.0,441.06
+186,Chips,Snacks,C,Mumbai,Member,1,548.52,Credit Card,5.0,548.52
+187,Soap,Personal Care,C,Mumbai,Member,1,402.99,Debit Card,5.0,402.99
+188,Chips,Snacks,C,Mumbai,Normal,1,670.88,Credit Card,5.0,670.88
+189,Chips,Snacks,C,Mumbai,Member,1,967.19,Debit Card,5.0,967.19
+190,Chocolate,Snacks,C,Mumbai,Member,1,597.78,Credit Card,5.0,597.78
+191,Toothpaste,Personal Care,C,Mumbai,Normal,1,455.17,Debit Card,5.0,455.17
+192,Toothpaste,Personal Care,C,Mumbai,Normal,1,765.87,Credit Card,5.0,765.87
+193,Chips,Snacks,C,Mumbai,Normal,1,910.34,Debit Card,5.0,910.34
+194,Toothpaste,Personal Care,C,Mumbai,Member,1,302.24,Credit Card,5.0,302.24
+195,Toothpaste,Personal Care,C,Mumbai,Normal,1,320.59,Debit Card,5.0,320.59
+196,Chocolate,Snacks,C,Mumbai,Normal,1,886.59,Credit Card,5.0,886.59
+197,Chocolate,Snacks,C,Mumbai,Normal,1,765.87,Debit Card,5.0,765.87
+198,Rice,Groceries,C,Mumbai,Normal,1,734.21,Credit Card,5.0,734.21
+199,Noodles,Groceries,C,Mumbai,Normal,1,120.71,Debit Card,5.0,120.71
+200,Shampoo,Personal Care,C,Mumbai,Member,1,454.49,Credit Card,5.0,454.49
+201,Toothpaste,Personal Care,C,Mumbai,Normal,1,397.78,Debit Card,5.0,397.78
+202,Chocolate,Snacks,C,Mumbai,Member,1,120.89,Credit Card,5.0,120.89
+203,Shampoo,Personal Care,C,Mumbai,Member,1,539.57,Debit Card,5.0,539.57
+204,Shampoo,Personal Care,C,Mumbai,Member,1,821.67,Credit Card,5.0,821.67
+205,Shampoo,Personal Care,C,Mumbai,Member,1,902.27,Debit Card,5.0,902.27
+206,Soap,Personal Care,C,Mumbai,Normal,1,290.91,Credit Card,5.0,290.91
+207,Noodles,Groceries,C,Mumbai,Normal,1,397.78,Debit Card,5.0,397.78
+208,Toothpaste,Personal Care,C,Mumbai,Normal,1,734.46,Credit Card,5.0,734.46
+209,Chocolate,Snacks,C,Mumbai,Member,1,893.31,Debit Card,5.0,893.31
+210,Chocolate,Snacks,C,Mumbai,Member,1,736.59,Credit Card,5.0,736.59
+211,Chips,Snacks,C,Mumbai,Member,1,306.72,Debit Card,5.0,306.72
+212,Chocolate,Snacks,C,Mumbai,Normal,1,852.95,Credit Card,5.0,852.95
+213,Shampoo,Personal Care,C,Mumbai,Member,1,1079.14,Debit Card,5.0,1079.14
+214,Noodles,Groceries,C,Mumbai,Normal,1,498.71,Credit Card,5.0,498.71
+215,Pasta,Groceries,C,Mumbai,Normal,1,205.81,Debit Card,5.0,205.81
+216,Pasta,Groceries,C,Mumbai,Member,1,617.93,Credit Card,5.0,617.93
+217,Soap,Personal Care,C,Mumbai,Member,1,174.63,Debit Card,5.0,174.63
+218,Pasta,Groceries,C,Mumbai,Member,1,779.13,Credit Card,5.0,779.13
+219,Noodles,Groceries,C,Mumbai,Member,1,291.05,Debit Card,5.0,291.05
+220,Noodles,Groceries,C,Mumbai,Normal,1,742.12,Credit Card,5.0,742.12
+221,Soap,Personal Care,C,Mumbai,Normal,1,852.95,Debit Card,5.0,852.95
+222,Rice,Groceries,C,Mumbai,Normal,1,973.67,Credit Card,5.0,973.67
+223,Chocolate,Snacks,C,Mumbai,Normal,1,148.42,Debit Card,5.0,148.42
+224,Chocolate,Snacks,C,Mumbai,Normal,1,829.2,Credit Card,5.0,829.2
+225,Shampoo,Personal Care,C,Mumbai,Member,1,644.79,Debit Card,5.0,644.79
+226,Soap,Personal Care,C,Mumbai,Member,1,841.82,Credit Card,5.0,841.82
+227,Noodles,Groceries,C,Mumbai,Member,1,376.13,Debit Card,5.0,376.13
+228,Chips,Snacks,C,Mumbai,Member,1,391.8,Credit Card,5.0,391.8
+229,Chips,Snacks,C,Mumbai,Member,1,1088.09,Debit Card,5.0,1088.09
+230,Toothpaste,Personal Care,C,Mumbai,Member,1,718.68,Credit Card,5.0,718.68
+231,Toothpaste,Personal Care,C,Mumbai,Normal,1,387.88,Debit Card,5.0,387.88
+232,Pasta,Groceries,C,Mumbai,Normal,1,942.0,Credit Card,5.0,942.0
+233,Soap,Personal Care,C,Mumbai,Normal,1,680.77,Debit Card,5.0,680.77
+234,Noodles,Groceries,C,Mumbai,Member,1,917.94,Credit Card,5.0,917.94
+235,Noodles,Groceries,C,Mumbai,Normal,1,712.44,Debit Card,5.0,712.44
+236,Shampoo,Personal Care,C,Mumbai,Member,1,311.2,Credit Card,5.0,311.2
+237,Chips,Snacks,C,Mumbai,Member,1,521.65,Debit Card,5.0,521.65
+238,Pasta,Groceries,C,Mumbai,Normal,1,461.1,Credit Card,5.0,461.1
+239,Noodles,Groceries,C,Mumbai,Member,1,608.97,Debit Card,5.0,608.97
+240,Chips,Snacks,C,Mumbai,Member,1,633.6,Credit Card,5.0,633.6
+241,Rice,Groceries,C,Mumbai,Member,1,1110.48,Debit Card,5.0,1110.48
+242,Pasta,Groceries,C,Mumbai,Member,1,758.98,Credit Card,5.0,758.98
+243,Chocolate,Snacks,C,Mumbai,Normal,1,884.61,Debit Card,5.0,884.61
+244,Shampoo,Personal Care,C,Mumbai,Member,1,387.32,Credit Card,5.0,387.32
+245,Chocolate,Snacks,C,Mumbai,Normal,1,793.58,Debit Card,5.0,793.58
+246,Shampoo,Personal Care,C,Mumbai,Member,1,226.12,Credit Card,5.0,226.12
+247,Chocolate,Snacks,C,Mumbai,Normal,1,106.86,Debit Card,5.0,106.86
+248,Soap,Personal Care,C,Mumbai,Normal,1,726.29,Credit Card,4.0,726.29
+249,Soap,Personal Care,C,Mumbai,Member,1,223.88,Debit Card,3.0,223.88
+250,Chocolate,Snacks,C,Mumbai,Member,1,454.49,Credit Card,3.0,454.49
+251,Shampoo,Personal Care,C,Mumbai,Member,1,317.92,Debit Card,3.0,317.92
+252,Shampoo,Personal Care,C,Mumbai,Member,1,143.28,Credit Card,3.0,143.28
+253,Pasta,Groceries,C,Mumbai,Normal,1,676.82,Debit Card,3.0,676.82
+254,Chocolate,Snacks,C,Mumbai,Member,1,875.4,Credit Card,3.0,875.4
+255,Pasta,Groceries,C,Mumbai,Normal,1,807.43,Debit Card,3.0,807.43
+256,Rice,Groceries,C,Mumbai,Member,1,402.99,Credit Card,3.0,402.99
+257,Rice,Groceries,C,Mumbai,Member,1,505.98,Debit Card,3.0,505.98
+258,Rice,Groceries,C,Mumbai,Member,1,483.59,Credit Card,3.0,483.59
+259,Chocolate,Snacks,C,Mumbai,Member,1,338.07,Debit Card,3.0,338.07
+260,Toothpaste,Personal Care,C,Mumbai,Member,1,810.47,Credit Card,3.0,810.47
+261,Soap,Personal Care,C,Mumbai,Member,1,214.93,Debit Card,3.0,214.93
+262,Toothpaste,Personal Care,C,Mumbai,Normal,1,376.01,Credit Card,3.0,376.01
+263,Toothpaste,Personal Care,C,Mumbai,Normal,1,785.66,Debit Card,3.0,785.66
+264,Chips,Snacks,C,Mumbai,Normal,1,908.36,Credit Card,3.0,908.36
+265,Noodles,Groceries,C,Mumbai,Member,1,665.3,Debit Card,3.0,665.3
+266,Chips,Snacks,C,Mumbai,Member,1,1032.12,Credit Card,3.0,1032.12
+267,Noodles,Groceries,C,Mumbai,Member,1,1018.69,Debit Card,3.0,1018.69
+268,Shampoo,Personal Care,C,Mumbai,Member,1,447.77,Credit Card,3.0,447.77
+269,Toothpaste,Personal Care,C,Mumbai,Member,1,620.17,Debit Card,3.0,620.17
+270,Soap,Personal Care,C,Mumbai,Member,1,783.6,Credit Card,3.0,783.6
+271,Rice,Groceries,C,Mumbai,Member,1,163.43,Debit Card,3.0,163.43
+272,Chocolate,Snacks,C,Mumbai,Member,1,640.32,Credit Card,3.0,640.32
+273,Rice,Groceries,C,Mumbai,Normal,1,352.26,Debit Card,3.0,352.26
+274,Toothpaste,Personal Care,C,Mumbai,Member,1,844.05,Credit Card,3.0,844.05
+275,Soap,Personal Care,C,Mumbai,Member,1,201.49,Debit Card,3.0,201.49
+276,Shampoo,Personal Care,C,Mumbai,Member,1,604.49,Credit Card,3.0,604.49
+277,Chips,Snacks,C,Mumbai,Member,1,1108.24,Debit Card,3.0,1108.24
+278,Soap,Personal Care,C,Mumbai,Member,1,398.52,Credit Card,3.0,398.52
+279,Noodles,Groceries,C,Mumbai,Member,1,456.73,Debit Card,3.0,456.73
+280,Soap,Personal Care,C,Mumbai,Normal,1,874.72,Credit Card,3.0,874.72
+281,Soap,Personal Care,C,Mumbai,Member,1,550.76,Debit Card,3.0,550.76
+282,Rice,Groceries,C,Mumbai,Normal,1,237.48,Credit Card,3.0,237.48
+283,Noodles,Groceries,C,Mumbai,Normal,1,862.84,Debit Card,3.0,862.84
+284,Soap,Personal Care,C,Mumbai,Member,1,582.1,Credit Card,3.0,582.1
+285,Shampoo,Personal Care,C,Mumbai,Member,1,277.62,Debit Card,3.0,277.62
+286,Chips,Snacks,C,Mumbai,Member,1,886.59,Credit Card,3.0,886.59
+287,Rice,Groceries,C,Mumbai,Normal,1,601.61,Debit Card,3.0,601.61
+288,Toothpaste,Personal Care,C,Mumbai,Member,1,275.38,Credit Card,3.0,275.38
+289,Rice,Groceries,C,Mumbai,Member,1,893.31,Debit Card,3.0,893.31
+290,Noodles,Groceries,C,Mumbai,Member,1,906.74,Credit Card,3.0,906.74
+291,Soap,Personal Care,C,Mumbai,Member,1,1023.16,Debit Card,3.0,1023.16
+292,Shampoo,Personal Care,C,Mumbai,Normal,1,712.44,Credit Card,3.0,712.44
+293,Rice,Groceries,C,Mumbai,Member,1,638.08,Debit Card,3.0,638.08
+294,Toothpaste,Personal Care,C,Mumbai,Normal,1,484.85,Credit Card,3.0,484.85
+295,Soap,Personal Care,C,Mumbai,Member,1,982.86,Debit Card,3.0,982.86
+296,Noodles,Groceries,C,Mumbai,Member,1,194.78,Credit Card,3.0,194.78
+297,Pasta,Groceries,C,Mumbai,Normal,1,330.49,Debit Card,3.0,330.49
+298,Pasta,Groceries,C,Mumbai,Member,1,680.62,Credit Card,3.0,680.62
+299,Toothpaste,Personal Care,C,Mumbai,Member,1,837.34,Debit Card,3.0,837.34
+300,Shampoo,Personal Care,C,Mumbai,Normal,1,938.05,Credit Card,3.0,938.05
+301,Biscuits,Bakery,B,Delhi,Normal,1,611.08,Debit Card,3.0,611.08
+302,Pasta,Groceries,A,Bangalore,Normal,1,284.11,Credit Card,3.0,284.11
+303,Toothpaste,Personal Care,B,Delhi,Normal,1,114.28,Debit Card,3.0,114.28
+304,Rice,Groceries,A,Bangalore,Normal,1,133.32,Credit Card,3.0,133.32
+305,Toothpaste,Personal Care,B,Delhi,Normal,1,220.62,Debit Card,3.0,220.62
+306,Soap,Personal Care,A,Bangalore,Member,1,177.51,Credit Card,3.0,177.51
+307,Soap,Personal Care,B,Delhi,Normal,1,690.44,Debit Card,3.0,690.44
+308,Shampoo,Personal Care,A,Bangalore,Normal,1,163.48,Credit Card,3.0,163.48
+309,Bread,Bakery,B,Delhi,Member,1,207.65,Debit Card,3.0,207.65
+310,Soap,Personal Care,A,Bangalore,Member,1,639.72,Credit Card,3.0,639.72
+311,Chocolate,Snacks,B,Delhi,Member,1,601.2,Debit Card,3.0,601.2
+312,Pasta,Groceries,A,Bangalore,Member,1,693.3,Credit Card,3.0,693.3
+313,Chips,Snacks,B,Delhi,Member,1,770.34,Debit Card,3.0,770.34
+314,Cake,Bakery,A,Bangalore,Member,1,209.33,Credit Card,3.0,209.33
+315,Rice,Groceries,B,Delhi,Member,1,808.86,Debit Card,3.0,808.86
+316,Pasta,Groceries,A,Bangalore,Normal,1,706.31,Credit Card,3.0,706.31
+317,Bread,Bakery,B,Delhi,Member,1,522.49,Debit Card,3.0,522.49
+318,Noodles,Groceries,A,Bangalore,Normal,1,241.25,Credit Card,3.0,241.25
+319,Chocolate,Snacks,B,Delhi,Member,1,128.94,Debit Card,3.0,128.94
+320,Pasta,Groceries,A,Bangalore,Member,1,167.46,Credit Card,3.0,167.46
+321,Chips,Snacks,B,Delhi,Member,1,381.82,Debit Card,3.0,381.82
+322,Toothpaste,Personal Care,A,Bangalore,Member,1,200.95,Credit Card,3.0,200.95
+323,Noodles,Groceries,B,Delhi,Member,1,795.46,Debit Card,3.0,795.46
+324,Chocolate,Snacks,A,Bangalore,Member,1,98.8,Credit Card,3.0,98.8
+325,Noodles,Groceries,B,Delhi,Normal,1,676.15,Debit Card,3.0,676.15
+326,Soap,Personal Care,A,Bangalore,Member,1,609.57,Credit Card,3.0,609.57
+327,Chips,Snacks,B,Delhi,Normal,1,317.44,Debit Card,3.0,317.44
+328,Soap,Personal Care,A,Bangalore,Member,1,604.55,Credit Card,3.0,604.55
+329,Chocolate,Snacks,B,Delhi,Normal,1,114.28,Debit Card,3.0,114.28
+330,Bread,Bakery,A,Bangalore,Member,1,611.25,Credit Card,3.0,611.25
+331,Rice,Groceries,B,Delhi,Normal,1,114.28,Debit Card,3.0,114.28
+332,Soap,Personal Care,A,Bangalore,Normal,1,490.45,Credit Card,3.0,490.45
+333,Rice,Groceries,B,Delhi,Member,1,127.27,Debit Card,3.0,127.27
+334,Bread,Bakery,A,Bangalore,Member,1,154.06,Credit Card,3.0,154.06
+335,Chips,Snacks,B,Delhi,Normal,1,130.15,Debit Card,3.0,130.15
+336,Toothpaste,Personal Care,A,Bangalore,Member,1,328.23,Credit Card,3.0,328.23
+337,Rice,Groceries,B,Delhi,Normal,1,711.07,Debit Card,3.0,711.07
+338,Soap,Personal Care,A,Bangalore,Normal,1,395.21,Credit Card,3.0,395.21
+339,Rice,Groceries,B,Delhi,Normal,1,107.93,Debit Card,3.0,107.93
+340,Cake,Bakery,A,Bangalore,Normal,1,592.03,Credit Card,3.0,592.03
+341,Cake,Bakery,B,Delhi,Normal,1,719.01,Debit Card,3.0,719.01
+342,Chips,Snacks,A,Bangalore,Member,1,329.9,Credit Card,3.0,329.9
+343,Biscuits,Bakery,B,Delhi,Member,1,793.78,Debit Card,3.0,793.78
+344,Cake,Bakery,A,Bangalore,Normal,1,522.19,Credit Card,3.0,522.19
+345,Cake,Bakery,B,Delhi,Normal,1,226.97,Debit Card,3.0,226.97
+346,Biscuits,Bakery,A,Bangalore,Normal,1,349.18,Credit Card,3.0,349.18
+347,Chips,Snacks,B,Delhi,Normal,1,674.57,Debit Card,3.0,674.57
+348,Rice,Groceries,A,Bangalore,Member,1,115.55,Credit Card,3.0,115.55
+349,Rice,Groceries,B,Delhi,Member,1,552.63,Debit Card,3.0,552.63
+350,Cake,Bakery,A,Bangalore,Normal,1,92.05,Credit Card,3.0,92.05
+351,Chips,Snacks,B,Delhi,Member,1,289.71,Debit Card,3.0,289.71
+352,Shampoo,Personal Care,A,Bangalore,Normal,1,368.23,Credit Card,3.0,368.23
+353,Pasta,Groceries,B,Delhi,Normal,1,95.23,Debit Card,3.0,95.23
+354,Chips,Snacks,A,Bangalore,Normal,1,455.53,Credit Card,3.0,455.53
+355,Bread,Bakery,B,Delhi,Normal,1,685.68,Debit Card,3.0,685.68
+356,Bread,Bakery,A,Bangalore,Member,1,534.21,Credit Card,3.0,534.21
+357,Rice,Groceries,B,Delhi,Member,1,107.17,Debit Card,3.0,107.17
+358,Bread,Bakery,A,Bangalore,Normal,1,595.2,Credit Card,3.0,595.2
+359,Cake,Bakery,B,Delhi,Member,1,288.04,Debit Card,3.0,288.04
+360,Pasta,Groceries,A,Bangalore,Member,1,298.08,Credit Card,3.0,298.08
+361,Pasta,Groceries,B,Delhi,Member,1,403.59,Debit Card,3.0,403.59
+362,Pasta,Groceries,A,Bangalore,Member,1,450.48,Credit Card,3.0,450.48
+363,Toothpaste,Personal Care,B,Delhi,Normal,1,330.14,Debit Card,3.0,330.14
+364,Noodles,Groceries,A,Bangalore,Member,1,385.17,Credit Card,3.0,385.17
+365,Shampoo,Personal Care,B,Delhi,Member,1,549.81,Debit Card,3.0,549.81
+366,Noodles,Groceries,A,Bangalore,Member,1,200.95,Credit Card,3.0,200.95
+367,Chocolate,Snacks,B,Delhi,Member,1,688.28,Debit Card,3.0,688.28
+368,Biscuits,Bakery,A,Bangalore,Member,1,761.97,Credit Card,3.0,761.97
+369,Pasta,Groceries,B,Delhi,Normal,1,612.66,Debit Card,3.0,612.66
+370,Bread,Bakery,A,Bangalore,Member,1,97.13,Credit Card,3.0,97.13
+371,Chocolate,Snacks,B,Delhi,Normal,1,347.6,Debit Card,3.0,347.6
+372,Pasta,Groceries,A,Bangalore,Member,1,189.23,Credit Card,3.0,189.23
+373,Biscuits,Bakery,B,Delhi,Member,1,445.45,Debit Card,3.0,445.45
+374,Chocolate,Snacks,A,Bangalore,Member,1,202.63,Credit Card,3.0,202.63
+375,Toothpaste,Personal Care,B,Delhi,Normal,1,233.32,Debit Card,3.0,233.32
+376,Chips,Snacks,A,Bangalore,Member,1,706.7,Credit Card,3.0,706.7
+377,Shampoo,Personal Care,B,Delhi,Normal,1,358.71,Debit Card,3.0,358.71
+378,Biscuits,Bakery,A,Bangalore,Normal,1,712.66,Credit Card,3.0,712.66
+379,Soap,Personal Care,B,Delhi,Member,1,830.63,Debit Card,3.0,830.63
+380,Chocolate,Snacks,A,Bangalore,Normal,1,788.85,Credit Card,3.0,788.85
+381,Bread,Bakery,B,Delhi,Member,1,468.9,Debit Card,3.0,468.9
+382,Shampoo,Personal Care,A,Bangalore,Normal,1,463.46,Credit Card,3.0,463.46
+383,Shampoo,Personal Care,B,Delhi,Normal,1,741.23,Debit Card,3.0,741.23
+384,Noodles,Groceries,A,Bangalore,Normal,1,660.28,Credit Card,3.0,660.28
+385,Noodles,Groceries,B,Delhi,Member,1,272.96,Debit Card,3.0,272.96
+386,Soap,Personal Care,A,Bangalore,Member,1,87.08,Credit Card,3.0,87.08
+387,Biscuits,Bakery,B,Delhi,Normal,1,496.8,Debit Card,3.0,496.8
+388,Rice,Groceries,A,Bangalore,Member,1,83.73,Credit Card,3.0,83.73
+389,Noodles,Groceries,B,Delhi,Member,1,341.63,Debit Card,3.0,341.63
+390,Soap,Personal Care,A,Bangalore,Normal,1,738.05,Credit Card,3.0,738.05
+391,Biscuits,Bakery,B,Delhi,Member,1,624.64,Debit Card,3.0,624.64
+392,Chips,Snacks,A,Bangalore,Normal,1,722.18,Credit Card,3.0,722.18
+393,Cake,Bakery,B,Delhi,Member,1,284.69,Debit Card,3.0,284.69
+394,Cake,Bakery,A,Bangalore,Member,1,403.59,Credit Card,3.0,403.59
+395,Bread,Bakery,B,Delhi,Member,1,267.94,Debit Card,3.0,267.94
+396,Shampoo,Personal Care,A,Bangalore,Normal,1,634.88,Credit Card,3.0,634.88
+397,Rice,Groceries,B,Delhi,Normal,1,588.86,Debit Card,3.0,588.86
+398,Pasta,Groceries,A,Bangalore,Member,1,140.67,Credit Card,3.0,140.67
+399,Shampoo,Personal Care,B,Delhi,Member,1,356.7,Debit Card,3.0,356.7
+400,Noodles,Groceries,A,Bangalore,Member,1,442.11,Credit Card,3.0,442.11
+401,Cake,Bakery,B,Delhi,Normal,1,353.95,Debit Card,3.0,353.95
+402,Noodles,Groceries,A,Bangalore,Member,1,763.64,Credit Card,3.0,763.64
+403,Chips,Snacks,B,Delhi,Member,1,170.81,Debit Card,3.0,170.81
+404,Noodles,Groceries,A,Bangalore,Member,1,487.32,Credit Card,3.0,487.32
+405,Biscuits,Bakery,B,Delhi,Member,1,177.51,Debit Card,3.0,177.51
+406,Chocolate,Snacks,A,Bangalore,Member,1,468.9,Credit Card,3.0,468.9
+407,Cake,Bakery,B,Delhi,Normal,1,528.54,Debit Card,3.0,528.54
+408,Rice,Groceries,A,Bangalore,Member,1,401.91,Credit Card,3.0,401.91
+409,Toothpaste,Personal Care,B,Delhi,Normal,1,693.61,Debit Card,3.0,693.61
+410,Shampoo,Personal Care,A,Bangalore,Normal,1,717.42,Credit Card,3.0,717.42
+411,Bread,Bakery,B,Delhi,Member,1,795.46,Debit Card,3.0,795.46
+412,Biscuits,Bakery,A,Bangalore,Member,1,485.65,Credit Card,3.0,485.65
+413,Bread,Bakery,B,Delhi,Member,1,616.27,Debit Card,3.0,616.27
+414,Chocolate,Snacks,A,Bangalore,Normal,1,365.06,Credit Card,3.0,365.06
+415,Chips,Snacks,B,Delhi,Normal,1,107.93,Debit Card,3.0,107.93
+416,Cake,Bakery,A,Bangalore,Member,1,160.76,Credit Card,3.0,160.76
+417,Rice,Groceries,B,Delhi,Member,1,679.91,Debit Card,3.0,679.91
+418,Chocolate,Snacks,A,Bangalore,Normal,1,468.23,Credit Card,3.0,468.23
+419,Chocolate,Snacks,B,Delhi,Normal,1,490.45,Debit Card,3.0,490.45
+420,Chips,Snacks,A,Bangalore,Member,1,576.08,Credit Card,3.0,576.08
+421,Bread,Bakery,B,Delhi,Member,1,438.76,Debit Card,3.0,438.76
+422,Cake,Bakery,A,Bangalore,Member,1,812.21,Credit Card,3.0,812.21
+423,Biscuits,Bakery,B,Delhi,Normal,1,242.84,Debit Card,3.0,242.84
+424,Shampoo,Personal Care,A,Bangalore,Member,1,391.87,Credit Card,3.0,391.87
+425,Pasta,Groceries,B,Delhi,Member,1,370.1,Debit Card,3.0,370.1
+426,Chips,Snacks,A,Bangalore,Member,1,150.71,Credit Card,3.0,150.71
+427,Chocolate,Snacks,B,Delhi,Normal,1,393.63,Debit Card,3.0,393.63
+428,Chocolate,Snacks,A,Bangalore,Normal,1,779.32,Credit Card,3.0,779.32
+429,Noodles,Groceries,B,Delhi,Member,1,633.02,Debit Card,3.0,633.02
+430,Rice,Groceries,A,Bangalore,Member,1,783.74,Credit Card,3.0,783.74
+431,Shampoo,Personal Care,B,Delhi,Member,1,467.23,Debit Card,3.0,467.23
+432,Shampoo,Personal Care,A,Bangalore,Member,1,211.0,Credit Card,3.0,211.0
+433,Biscuits,Bakery,B,Delhi,Member,1,286.36,Debit Card,3.0,286.36
+434,Rice,Groceries,A,Bangalore,Member,1,698.33,Credit Card,3.0,698.33
+435,Bread,Bakery,B,Delhi,Normal,1,550.76,Debit Card,3.0,550.76
+436,Chips,Snacks,A,Bangalore,Member,1,422.01,Credit Card,3.0,422.01
+437,Toothpaste,Personal Care,B,Delhi,Normal,1,644.41,Debit Card,3.0,644.41
+438,Bread,Bakery,A,Bangalore,Normal,1,188.87,Credit Card,3.0,188.87
+439,Pasta,Groceries,B,Delhi,Member,1,542.59,Debit Card,3.0,542.59
+440,Rice,Groceries,A,Bangalore,Normal,1,604.73,Credit Card,3.0,604.73
+441,Chocolate,Snacks,B,Delhi,Member,1,532.54,Debit Card,3.0,532.54
+442,Cake,Bakery,A,Bangalore,Member,1,413.64,Credit Card,3.0,413.64
+443,Pasta,Groceries,B,Delhi,Normal,1,187.29,Debit Card,3.0,187.29
+444,Cake,Bakery,A,Bangalore,Normal,1,117.45,Credit Card,3.0,117.45
+445,Cake,Bakery,B,Delhi,Member,1,800.48,Debit Card,3.0,800.48
+446,Chips,Snacks,A,Bangalore,Normal,1,601.55,Credit Card,3.0,601.55
+447,Pasta,Groceries,B,Delhi,Member,1,733.5,Debit Card,3.0,733.5
+448,Chips,Snacks,A,Bangalore,Member,1,326.55,Credit Card,3.0,326.55
+449,Pasta,Groceries,B,Delhi,Member,1,105.5,Debit Card,3.0,105.5
+450,Cake,Bakery,A,Bangalore,Member,1,832.3,Credit Card,3.0,832.3
+451,Pasta,Groceries,B,Delhi,Normal,1,782.5,Debit Card,3.0,782.5
+452,Biscuits,Bakery,A,Bangalore,Member,1,514.12,Credit Card,3.0,514.12
+453,Shampoo,Personal Care,B,Delhi,Member,1,495.69,Debit Card,3.0,495.69
+454,Chips,Snacks,A,Bangalore,Member,1,152.39,Credit Card,3.0,152.39
+455,Biscuits,Bakery,B,Delhi,Normal,1,382.52,Debit Card,3.0,382.52
+456,Chips,Snacks,A,Bangalore,Member,1,510.77,Credit Card,3.0,510.77
+457,Bread,Bakery,B,Delhi,Member,1,333.25,Debit Card,3.0,333.25
+458,Shampoo,Personal Care,A,Bangalore,Member,1,736.85,Credit Card,3.0,736.85
+459,Shampoo,Personal Care,B,Delhi,Member,1,525.84,Debit Card,3.0,525.84
+460,Pasta,Groceries,A,Bangalore,Member,1,798.81,Credit Card,3.0,798.81
+461,Rice,Groceries,B,Delhi,Normal,1,299.98,Debit Card,3.0,299.98
+462,Bread,Bakery,A,Bangalore,Normal,1,753.93,Credit Card,3.0,753.93
+463,Bread,Bakery,B,Delhi,Member,1,137.32,Debit Card,3.0,137.32
+464,Shampoo,Personal Care,A,Bangalore,Member,1,557.66,Credit Card,3.0,557.66
+465,Pasta,Groceries,B,Delhi,Normal,1,450.77,Debit Card,3.0,450.77
+466,Toothpaste,Personal Care,A,Bangalore,Member,1,475.6,Credit Card,3.0,475.6
+467,Bread,Bakery,B,Delhi,Member,1,656.46,Debit Card,3.0,656.46
+468,Noodles,Groceries,A,Bangalore,Member,1,274.64,Credit Card,3.0,274.64
+469,Chocolate,Snacks,B,Delhi,Member,1,572.73,Debit Card,3.0,572.73
+470,Toothpaste,Personal Care,A,Bangalore,Normal,1,401.56,Credit Card,3.0,401.56
+471,Noodles,Groceries,B,Delhi,Member,1,155.74,Debit Card,3.0,155.74
+472,Pasta,Groceries,A,Bangalore,Member,1,748.57,Credit Card,3.0,748.57
+473,Pasta,Groceries,B,Delhi,Normal,1,334.9,Debit Card,3.0,334.9
+474,Shampoo,Personal Care,A,Bangalore,Normal,1,709.48,Credit Card,3.0,709.48
+475,Noodles,Groceries,B,Delhi,Member,1,123.92,Debit Card,3.0,123.92
+476,Bread,Bakery,A,Bangalore,Normal,1,520.6,Credit Card,3.0,520.6
+477,Noodles,Groceries,B,Delhi,Member,1,457.18,Debit Card,3.0,457.18
+478,Toothpaste,Personal Care,A,Bangalore,Member,1,187.56,Credit Card,3.0,187.56
+479,Soap,Personal Care,B,Delhi,Member,1,535.89,Debit Card,3.0,535.89
+480,Soap,Personal Care,A,Bangalore,Normal,1,274.58,Credit Card,3.0,274.58
+481,Cake,Bakery,B,Delhi,Member,1,802.16,Debit Card,3.0,802.16
+482,Chips,Snacks,A,Bangalore,Normal,1,739.64,Credit Card,3.0,739.64
+483,Noodles,Groceries,B,Delhi,Member,1,440.43,Debit Card,3.0,440.43
+484,Soap,Personal Care,A,Bangalore,Member,1,221.05,Credit Card,3.0,221.05
+485,Cake,Bakery,B,Delhi,Member,1,289.71,Debit Card,3.0,289.71
+486,Bread,Bakery,A,Bangalore,Member,1,316.51,Credit Card,3.0,316.51
+487,Toothpaste,Personal Care,B,Delhi,Member,1,303.11,Debit Card,3.0,303.11
+488,Rice,Groceries,A,Bangalore,Normal,1,284.11,Credit Card,3.0,284.11
+489,Rice,Groceries,B,Delhi,Normal,1,179.7,Debit Card,3.0,179.7
+490,Rice,Groceries,A,Bangalore,Normal,1,368.23,Credit Card,3.0,368.23
+491,Bread,Bakery,B,Delhi,Normal,1,112.69,Debit Card,3.0,112.69
+492,Biscuits,Bakery,A,Bangalore,Normal,1,460.29,Credit Card,3.0,460.29
+493,Shampoo,Personal Care,B,Delhi,Member,1,694.98,Debit Card,3.0,694.98
+494,Chocolate,Snacks,A,Bangalore,Member,1,631.34,Credit Card,3.0,631.34
+495,Pasta,Groceries,B,Delhi,Member,1,524.16,Debit Card,3.0,524.16
+496,Soap,Personal Care,A,Bangalore,Member,1,653.11,Credit Card,3.0,653.11
+497,Biscuits,Bakery,B,Delhi,Normal,1,311.09,Debit Card,3.0,311.09
+498,Chips,Snacks,A,Bangalore,Member,1,205.98,Credit Card,3.0,205.98
+499,Chips,Snacks,B,Delhi,Member,1,242.82,Debit Card,3.0,242.82
+500,Bread,Bakery,A,Bangalore,Member,1,594.5,Credit Card,3.0,594.5
